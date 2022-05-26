@@ -84,16 +84,18 @@ footer {
       color: $gray-darker;
     }
   }
-}
-small {
-  float: left;
-}
-ul {
+
+  small {
+    float: left;
+  }
+  
+  ul {
   float: right;
   list-style: none;
-  li {
-    float: left;
-    margin-left: 15px;
+    li {
+      float: left;
+      margin-left: 15px;
+    }
   }
 }
 
